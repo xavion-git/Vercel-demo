@@ -36,6 +36,9 @@ export default function Home() {
           <li className="tracking-[-.01em]">
             Save and see your changes instantly.
           </li>
+          <lil>
+            Deplpyment successful 
+          </lil>
         </ol>
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a
